@@ -2,7 +2,8 @@
 
 A simple React app to help track your grocery spending.
 
-![Grocery List Screenshot](https://via.placeholder.com/600x400?text=Grocery+List+App)
+![Grocery List Screenshot](<img width="682" alt="image" src="https://github.com/user-attachments/assets/c59410f7-a727-4672-b8ff-46cb3c68d923" />
+p)
 
 ## What it does
 
